@@ -1,0 +1,16 @@
+text,complexity_level,num_clauses,avg_word_length,morphological_cases
+"Kissa istui.",simple,1,5.5,2
+"Koira juoksi nopeasti puistossa.",simple,1,7.2,3
+"Kun aurinko paistoi, lapset leikkivät ulkona iloisesti.",moderate,2,7.8,5
+"Opettaja, joka oli hyvin kokenut, selitti oppilaille monimutkaisen asian yksinkertaisesti.",complex,3,8.5,8
+"Talo, joka oli rakennettu vuonna 1920, peruskorjattiin viime kesänä kokonaan.",complex,3,9.2,9
+"Menen kauppaan.",simple,1,6.5,3
+"Ostan maitoa ja leipää.",simple,1,5.8,2
+"Jos sataa, otan sateenvarjon mukaan.",moderate,2,7.1,4
+"Kirja oli mielenkiintoinen.",simple,1,8.2,2
+"Vaikka oli myöhäistä, jatkoimme työskentelyä, koska deadline lähestyi nopeasti.",complex,3,8.9,7
+"Kesällä on lämmintä.",simple,1,7.0,2
+"Talvella sataa lunta ja on kylmää.",simple,1,6.8,3
+"Kun talvi tulee, linnut muuttavat etelään lämpimämpiin maihin.",moderate,2,8.1,6
+"Presidentti, joka oli juuri palannut ulkomaanmatkalta, piti tiedotustilaisuuden, jossa hän kertoi neuvotteluiden tuloksista.",complex,4,9.5,11
+"Auto pysähtyi.",simple,1,6.5,2

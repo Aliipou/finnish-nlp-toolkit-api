@@ -1,0 +1,21 @@
+text,label,toxicity_score
+"Hyvää päivää! Toivottavasti sinulla on mahtava päivä.",0,0.05
+"Tervetuloa sivustollemme! Meillä on paljon hyödyllistä tietoa.",0,0.02
+"Kiitos avustasi, se oli todella hyödyllistä!",0,0.01
+"Tämä on hyvä esimerkki laadukkaasta sisällöstä.",0,0.03
+"Pidän tästä artikkelista, se on hyvin kirjoitettu.",0,0.02
+"Helvetti saatana, miksi tämä ei toimi!",1,0.92
+"Olet täysi idiootti jos uskot tuohon.",1,0.88
+"Paskamainen juttu, en voi sietää tätä.",1,0.85
+"Vittumainen tilanne, haistakaa paska!",1,0.95
+"Saatanan typerä väite, olet täysin väärässä.",1,0.79
+"Ehkä voisimme keskustella tästä rauhallisemmin?",0,0.08
+"En ole täysin samaa mieltä, mutta ymmärrän näkökulmasi.",0,0.15
+"Tämä vaatii lisäselvitystä ennen johtopäätöksiä.",0,0.05
+"Minusta tämä on kiinnostava aihe keskustelulle.",0,0.02
+"Ole hyvä ja harkitse tätä uudelleen.",0,0.12
+"Perkele kun harmittaa tämä tilanne.",1,0.65
+"En jaksa enää tätä paskaa!",1,0.82
+"Vituttaa kun mikään ei onnistu.",1,0.71
+"Tämä on ihan järjetöntä!",0,0.45
+"En ymmärrä miksi tämä on niin vaikeaa.",0,0.22

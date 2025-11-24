@@ -1,0 +1,29 @@
+# Advanced Finnish NLP Toolkit Requirements
+# Includes all production-grade NLP libraries
+
+# Core API (from requirements.txt)
+-r requirements.txt
+
+# Advanced NLP Libraries
+libvoikko-python==0.5  # System libvoikko wrapper
+sentencepiece==0.1.99  # For transformer tokenization
+tokenizers==0.15.0  # Fast tokenizers for transformers
+
+# Caching
+redis==5.0.1  # Redis client for distributed caching
+hiredis==2.3.2  # Faster Redis protocol parser
+
+# Monitoring & Performance
+prometheus-client==0.19.0  # Metrics collection
+python-json-logger==2.0.7  # Structured logging
+
+# Additional utilities
+tqdm==4.66.1  # Progress bars for batch processing
+click==8.1.7  # CLI tool creation
+requests==2.31.0  # HTTP client
+
+# Development tools (optional)
+ipython==8.19.0  # Interactive shell
+jupyter==1.0.0  # Notebooks for experiments
+matplotlib==3.8.2  # Visualizations
+seaborn==0.13.1  # Statistical plots
