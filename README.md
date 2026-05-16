@@ -17,6 +17,8 @@
 
 ## Overview
 
+> **Scope note:** This is a lightweight REST wrapper for basic Finnish morphological analysis — lemmatization, complexity scoring, and profanity detection across three domains. For the full platform with 30+ endpoints, all 15 grammatical cases, and Voikko-backed production morphology, see [Finnish-nlp-2.0](https://github.com/Aliipou/Finnish-nlp-2.0).
+
 Finnish NLP Toolkit is a comprehensive backend service providing state-of-the-art Finnish language processing capabilities through a modern REST API and interactive web interface. Built with FastAPI and powered by advanced NLP libraries, it offers lemmatization, complexity analysis, and profanity detection for Finnish text.
 
 ### Key Highlights
